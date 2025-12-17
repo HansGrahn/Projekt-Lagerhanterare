@@ -3,6 +3,8 @@ import csv
 import json
 import time
 
+#Frågade ai att hämta alla rankade ufc fighters
+
 def scrape_ufc_rankings():
     """
     Hämtar UFC rankings och fighter-data och skapar en CSV-fil

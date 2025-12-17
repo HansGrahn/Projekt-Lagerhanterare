@@ -1,3 +1,11 @@
+'''
+Projekt_V1.PY: Lagerhanterare för ufc rankningarna.
+
+__author__  = Hans-Ove Grahn
+__version__ = "1.0.0"
+__email__   = hans-ove.grahn@elev.ga.dbgy.se
+'''
+
 import csv
 import os
 

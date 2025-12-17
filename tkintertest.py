@@ -1,7 +1,19 @@
+'''
+tkintertest.PY: Test för tkinter i lagerhanterare för ufc rankningar
+
+__author__  = Hans-Ove Grahn
+__version__ = "1.0.0"
+__email__   = hans-ove.grahn@elev.ga.dbgy.se
+'''
+
 import csv
 import tkinter as tk
 from tkinter import messagebox, ttk, filedialog
 import os
+ 
+
+# Ej slutprojekt, bara se hur tkinter funkar (tog bort csv filer för denna kod)!!
+
 
 # ======================
 #   CSV Files Configuration
